@@ -12,7 +12,7 @@ Installation:
 
 -Install the mod from the releases tab or off of spacedock: https://spacedock.info/mod/4230/Kerbal%20Ejection
 
--Extract the zip folder
+-Extract KerbalEjection.zip
 
 -Merge the gamedata folder with the gamedata folder in your KSP installation
 
