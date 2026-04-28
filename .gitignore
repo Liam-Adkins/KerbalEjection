@@ -399,3 +399,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# KSP mod build artifacts
+*.dll
+*.pdb
+*.mdb
+
+# Ignore GameData plugin outputs
+GameData/*/Plugins/*.dll
